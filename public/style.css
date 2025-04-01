@@ -24,8 +24,13 @@ h1, h2, h3, h4, h5, p {
 }
 
 @media only screen and (max-width: 768px) {
-    body {
+    * {
       display: none;
+    }
+
+    body {
+        height: 100vh !important;
+        display: block !important;
     }
 
     .show_mobile {
