@@ -23,11 +23,6 @@ h1, h2, h3, h4, h5, p {
     width: 152px;
 }
 
-@media only screen and (min-width: 768px) {
-    .show_mobile {
-      display: none;
-    }
-
 @media only screen and (max-width: 768px) {
     * {
       display: none;
@@ -43,7 +38,10 @@ h1, h2, h3, h4, h5, p {
     }
 }
 
-
+@media only screen and (min-width: 768px) {
+    .show_mobile {
+      display: none;
+    }
   
 
 @font-face {
