@@ -27,8 +27,6 @@ class Header extends React.Component {
                                             <li><span className="dropdown-item">EXAMPLE 1</span></li>
                                             <li><span className="dropdown-item">EXAMPLE 2</span></li>
                                             <li><span className="dropdown-item">EXAMPLE 3</span></li>
-                                            <li><span className="dropdown-item">EXAMPLE 4</span></li>
-                                            <li><span className="dropdown-item">EXAMPLE 5 (BG VIDEO)</span></li>
                                         </ul>
                                     </li>
                                     <li className="nav-item dropdown nav_dropdown">
